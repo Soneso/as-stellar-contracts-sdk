@@ -1,2 +1,2 @@
 # as-stellar-contracts-sdk
-Assembly Script SDK for Stellar Smart Contracts
+AssemblyScript SDK for Stellar Smart Contracts
