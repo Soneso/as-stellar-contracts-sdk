@@ -1,2 +1,3 @@
 # as-stellar-contracts-sdk
-AssemblyScript SDK for Stellar Smart Contracts
+
+This repository will hold the Soneso AssemblyScript SDK for Stellar Smart Contracts.
